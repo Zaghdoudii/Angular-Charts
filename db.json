@@ -1,0 +1,121 @@
+{
+  "spend": [
+    {
+      "account_name": "AWS Production",
+      "service_name": "AWS EC2",
+      "ressource_id": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "cost": 56.61,
+      "period_start": "01/03/2023",
+      "period_end": "08/03/2023",
+      "projet_id": "4321"
+    },
+    {
+      "account_name": "AWS Production",
+      "service_name": "AWS S3",
+      "ressource_id": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "cost": 22.10,
+      "period_start": "01/03/2023",
+      "period_end": "08/03/2023",
+      "projet_id": "4321"
+    },
+    {
+      "account_name": "AWS Production",
+      "service_name": "AWS RDS",
+      "ressource_id": "ccccccccccccccccccccccccccccccccccccccc",
+      "cost": 56.61,
+      "period_start": "01/03/2023",
+      "period_end": "08/03/2023",
+      "projet_id": "4321"
+    },
+    {
+      "account_name": "Azure Web",
+      "service_name": "Azure App Service",
+      "ressource_id": "ddddddddddddddddddddddddddddddddddddddddd",
+      "cost": 12.10,
+      "period_start": "01/03/2023",
+      "period_end": "08/03/2023",
+      "projet_id": "4321"
+    },
+    {
+      "account_name": "AWS Production",
+      "service_name": "AWS EC2",
+      "ressource_id": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "cost": 56.22,
+      "period_start": "01/03/2023",
+      "period_end": "08/03/2023",
+      "projet_id": "4444"
+    },
+    {
+      "account_name": "Azure Web",
+      "service_name": "Azure App Service",
+      "ressource_id": "fffffffffffffffffffffffffffffffffffffffffffffff",
+      "cost": 15.75,
+      "period_start": "01/03/2023",
+      "period_end": "08/03/2023",
+      "projet_id": "4321"
+    },
+    {
+      "account_name": "AWS Production",
+      "service_name": "AWS EC2",
+      "ressource_id": "ggggggggggggggggggggggggggggggggggggggggggggggggg",
+      "cost": 10.00,
+      "period_start": "01/03/2023",
+      "period_end": "08/03/2023",
+      "projet_id": "4321"
+    },
+    {
+      "account_name": "AWS Production",
+      "service_name": "AWS RDS",
+      "ressource_id": "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+      "cost": 20.00,
+      "period_start": "01/03/2023",
+      "period_end": "08/03/2023",
+      "projet_id": "4444"
+    },
+    {
+      "account_name": "AWS Production",
+      "service_name": "AWS EC2",
+      "ressource_id": "iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+      "cost": 25.50,
+      "period_start": "01/03/2023",
+      "period_end": "08/03/2023",
+      "projet_id": "4321"
+    },
+    {
+      "account_name": "Azure Web",
+      "service_name": "Azure App Service",
+      "ressource_id": "jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj",
+      "cost": 28.00,
+      "period_start": "01/03/2023",
+      "period_end": "08/03/2023",
+      "projet_id": "4321"
+    },
+    {
+      "account_name": "AWS Production",
+      "service_name": "AWS RDS",
+      "ressource_id": "kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+      "cost": 55.33,
+      "period_start": "01/03/2023",
+      "period_end": "08/03/2023",
+      "projet_id": "4444"
+    },
+    {
+      "account_name": "AWS Production",
+      "service_name": "AWS S3",
+      "ressource_id": "llllllllllllllllllllllllllllllllllllllllllllllllllllll",
+      "cost": 13.44,
+      "period_start": "01/03/2023",
+      "period_end": "08/03/2023",
+      "projet_id": "4321"
+    },
+    {
+      "account_name": "AWS Production",
+      "service_name": "AWS EC2",
+      "ressource_id": "mmmmmmmmmmmmmmmmmmmmmmmmmmm",
+      "cost": 44.55,
+      "period_start": "01/03/2023",
+      "period_end": "08/03/2023",
+      "projet_id": "4444"
+    }
+  ]
+}

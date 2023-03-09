@@ -1,0 +1,86 @@
+<div class="row">
+    <div class="col-lg-6">
+
+        <h2> Pie chart </h2>
+        <canvas id="piechart"> </canvas>
+    </div>
+    <div class="col-lg-6">
+
+        <h2> Bar chart </h2>
+        <canvas id="barchart"> </canvas>
+    </div>
+
+    <div class="col-lg-6">
+
+        <h2> Line chart </h2>
+        <canvas id="linechart"> </canvas>
+    </div>
+    <!-- 
+    <div class="col-lg-6">
+
+        <h2> doughnut chart </h2>
+        <canvas id="doughnutchart"> </canvas>
+    </div>
+
+
+    <div class="col-lg-6">
+
+        <h2> Polararea chart </h2>
+        <canvas id="polarareachart"> </canvas>
+    </div>
+    <div class="col-lg-6">
+
+        <h2> Bubble chart </h2>
+        <canvas id="    "> </canvas>
+    </div>
+    <div class="col-lg-6">
+
+        <h2> Scatter chart </h2>
+        <canvas id="scatterchart"> </canvas>
+    </div> -->
+
+</div>
+
+<br />
+<br />
+<br />
+<hr>
+
+<hr>
+
+<div class="container mt-5">
+
+    <h2>Display Data from Json File</h2>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Account NAME</th>
+                <th>Service NAME</th>
+                <th>Ressource Id</th>
+                <th>Cost</th>
+                <th>Period </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let s of  this.chartdata">
+                <td>{{ s.account_name }}</td>
+                <td>{{ s.service_name }}</td>
+                <td>{{ s.ressource_id }}</td>
+                <td>{{ s.cost }} $</td>
+                <td>{{ s.period_start }}<br />{{ s.period_end }} </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+<br />
+<br />
+<br />
+<hr>
+
+<hr>
+
+<h2> Total Spend : </h2>
