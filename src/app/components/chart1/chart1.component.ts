@@ -56,7 +56,7 @@ export class Chart1Component implements OnInit {
         }
 
         this.sum = sum1;
-        console.log("Total spend : ", this.sum);
+        // console.log("Total spend : ", this.sum);
 
         this.RenderChart(accountName, totalCost, 'piechart', 'pie');
         this.RenderChart(accountName, totalCost, 'barchart', 'bar');
