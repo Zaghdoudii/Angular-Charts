@@ -6,7 +6,7 @@
       "ressource_id": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
       "cost": 56.61,
       "period_start": "01/03/2023",
-      "period_end": "08/03/2023",
+      "period_end": "05/03/2023",
       "projet_id": "4321"
     },
     {
@@ -15,7 +15,7 @@
       "ressource_id": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
       "cost": 22.10,
       "period_start": "01/03/2023",
-      "period_end": "08/03/2023",
+      "period_end": "02/03/2023",
       "projet_id": "4321"
     },
     {
@@ -24,7 +24,7 @@
       "ressource_id": "ccccccccccccccccccccccccccccccccccccccc",
       "cost": 56.61,
       "period_start": "01/03/2023",
-      "period_end": "08/03/2023",
+      "period_end": "01/03/2023",
       "projet_id": "4321"
     },
     {
@@ -33,8 +33,8 @@
       "ressource_id": "ddddddddddddddddddddddddddddddddddddddddd",
       "cost": 12.10,
       "period_start": "01/03/2023",
-      "period_end": "08/03/2023",
-      "projet_id": "4321"
+      "period_end": "04/03/2023",
+      "projet_id": "11"
     },
     {
       "account_name": "AWS Production",
@@ -42,7 +42,7 @@
       "ressource_id": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
       "cost": 56.22,
       "period_start": "01/03/2023",
-      "period_end": "08/03/2023",
+      "period_end": "03/03/2023",
       "projet_id": "4444"
     },
     {
@@ -51,8 +51,8 @@
       "ressource_id": "fffffffffffffffffffffffffffffffffffffffffffffff",
       "cost": 15.75,
       "period_start": "01/03/2023",
-      "period_end": "08/03/2023",
-      "projet_id": "4321"
+      "period_end": "01/03/2023",
+      "projet_id": "11"
     },
     {
       "account_name": "AWS Production",
@@ -60,7 +60,7 @@
       "ressource_id": "ggggggggggggggggggggggggggggggggggggggggggggggggg",
       "cost": 10.00,
       "period_start": "01/03/2023",
-      "period_end": "08/03/2023",
+      "period_end": "05/03/2023",
       "projet_id": "4321"
     },
     {
@@ -68,8 +68,8 @@
       "service_name": "AWS RDS",
       "ressource_id": "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
       "cost": 20.00,
-      "period_start": "01/03/2023",
-      "period_end": "08/03/2023",
+      "period_start": "02/03/2023",
+      "period_end": "02/03/2023",
       "projet_id": "4444"
     },
     {
@@ -78,7 +78,7 @@
       "ressource_id": "iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
       "cost": 25.50,
       "period_start": "01/03/2023",
-      "period_end": "08/03/2023",
+      "period_end": "03/03/2023",
       "projet_id": "4321"
     },
     {
@@ -87,8 +87,8 @@
       "ressource_id": "jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj",
       "cost": 28.00,
       "period_start": "01/03/2023",
-      "period_end": "08/03/2023",
-      "projet_id": "4321"
+      "period_end": "04/03/2023",
+      "projet_id": "11"
     },
     {
       "account_name": "AWS Production",
@@ -96,7 +96,7 @@
       "ressource_id": "kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
       "cost": 55.33,
       "period_start": "01/03/2023",
-      "period_end": "08/03/2023",
+      "period_end": "05/03/2023",
       "projet_id": "4444"
     },
     {
@@ -105,7 +105,7 @@
       "ressource_id": "llllllllllllllllllllllllllllllllllllllllllllllllllllll",
       "cost": 13.44,
       "period_start": "01/03/2023",
-      "period_end": "08/03/2023",
+      "period_end": "04/03/2023",
       "projet_id": "4321"
     },
     {
@@ -114,7 +114,25 @@
       "ressource_id": "mmmmmmmmmmmmmmmmmmmmmmmmmmm",
       "cost": 44.55,
       "period_start": "01/03/2023",
-      "period_end": "08/03/2023",
+      "period_end": "03/03/2023",
+      "projet_id": "4444"
+    },
+    {
+      "account_name": "AWS Production",
+      "service_name": "AWS RDS",
+      "ressource_id": "mmmmmmmmmmmmmmmmmmmmmmmmmmm",
+      "cost": 35.25,
+      "period_start": "01/03/2023",
+      "period_end": "02/03/2023",
+      "projet_id": "4321"
+    },
+    {
+      "account_name": "AWS Production",
+      "service_name": "AWS EC2",
+      "ressource_id": "mmmmmmmmmmmmmmmmmmmmmmmmmmm",
+      "cost": 20.50,
+      "period_start": "01/03/2023",
+      "period_end": "01/03/2023",
       "projet_id": "4444"
     }
   ]
