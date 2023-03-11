@@ -4,7 +4,7 @@
       "account_name": "AWS Production",
       "service_name": "AWS EC2",
       "ressource_id": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-      "cost": 56.61,
+      "cost": 28.60,
       "period_start": "01/03/2023",
       "period_end": "05/03/2023",
       "projet_id": "4321"
@@ -22,7 +22,7 @@
       "account_name": "AWS Production",
       "service_name": "AWS RDS",
       "ressource_id": "ccccccccccccccccccccccccccccccccccccccc",
-      "cost": 56.61,
+      "cost": 56,
       "period_start": "01/03/2023",
       "period_end": "01/03/2023",
       "projet_id": "4321"
@@ -40,7 +40,7 @@
       "account_name": "AWS Production",
       "service_name": "AWS EC2",
       "ressource_id": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-      "cost": 56.22,
+      "cost": 56.25,
       "period_start": "01/03/2023",
       "period_end": "03/03/2023",
       "projet_id": "4444"
@@ -49,7 +49,7 @@
       "account_name": "Azure Web",
       "service_name": "Azure App Service",
       "ressource_id": "fffffffffffffffffffffffffffffffffffffffffffffff",
-      "cost": 15.75,
+      "cost": 12.50,
       "period_start": "01/03/2023",
       "period_end": "01/03/2023",
       "projet_id": "11"
@@ -94,7 +94,7 @@
       "account_name": "AWS Production",
       "service_name": "AWS RDS",
       "ressource_id": "kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
-      "cost": 55.33,
+      "cost": 15.50,
       "period_start": "01/03/2023",
       "period_end": "05/03/2023",
       "projet_id": "4444"
@@ -103,7 +103,7 @@
       "account_name": "AWS Production",
       "service_name": "AWS S3",
       "ressource_id": "llllllllllllllllllllllllllllllllllllllllllllllllllllll",
-      "cost": 13.44,
+      "cost": 13.40,
       "period_start": "01/03/2023",
       "period_end": "04/03/2023",
       "projet_id": "4321"
@@ -112,7 +112,7 @@
       "account_name": "AWS Production",
       "service_name": "AWS EC2",
       "ressource_id": "mmmmmmmmmmmmmmmmmmmmmmmmmmm",
-      "cost": 44.55,
+      "cost": 44.50,
       "period_start": "01/03/2023",
       "period_end": "03/03/2023",
       "projet_id": "4444"
@@ -130,7 +130,7 @@
       "account_name": "AWS Production",
       "service_name": "AWS EC2",
       "ressource_id": "mmmmmmmmmmmmmmmmmmmmmmmmmmm",
-      "cost": 20.50,
+      "cost": 28.50,
       "period_start": "01/03/2023",
       "period_end": "01/03/2023",
       "projet_id": "4444"
