@@ -54,7 +54,6 @@ export class Chart1Component implements OnInit {
         }
 
         this.sum = sum1;
-        // console.log("Total spend : ", this.sum);
 
         this.RenderChart(accountName, totalCost, 'piechart', 'pie');
         this.RenderChart(accountName, totalCost, 'barchart', 'bar');
@@ -100,13 +99,13 @@ export class Chart1Component implements OnInit {
           borderWidth: 1
         }]
       },
-      // options: {
-      //   scales: {
-      //     y: {
-      //       beginAtZero: true
-      //     }
-      //   }
-      // }
+      options: {
+        scales: {
+          y: {
+            beginAtZero: true
+          }
+        }
+      }
     });
   }
 

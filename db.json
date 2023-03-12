@@ -6,7 +6,7 @@
       "ressource_id": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
       "cost": 28.60,
       "period_start": "01/03/2023",
-      "period_end": "05/03/2023",
+      "period_end": "01/03/2023",
       "projet_id": "4321"
     },
     {
@@ -51,7 +51,7 @@
       "ressource_id": "fffffffffffffffffffffffffffffffffffffffffffffff",
       "cost": 12.50,
       "period_start": "01/03/2023",
-      "period_end": "01/03/2023",
+      "period_end": "05/03/2023",
       "projet_id": "11"
     },
     {
